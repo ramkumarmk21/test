@@ -12,5 +12,24 @@ git fetch && git pull
 
 123333
 
+git init
+
+git remote add orgin https://github.com/ramkumarmk21/test.git
+git clone https://github.com/ramkumarmk21/test.git
+
+
+
+git add filename or git add test.txt
+git commit -m "Change titles and styling on homepage"
+git add .
+git commit -a -m "Change titles and styling on homepage"
+
+git push -f origin  master
+
+
+
+
+
+
 
 
