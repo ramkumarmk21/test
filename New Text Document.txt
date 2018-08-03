@@ -26,6 +26,18 @@ git commit -a -m "Change titles and styling on homepage"
 
 git push -f origin  master
 
+git push orgin master
+
+$git remote -v
+myOrigin ssh://git@example.com:1234/myRepo.git (fetch)
+myOrigin ssh://git@example.com:1234/myRepo.git (push)
+
+# this will fail because `origin` is not set
+$git push origin master
+
+# you need to use
+$git push myOrigin master
+
 
 
 
