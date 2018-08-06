@@ -1,4 +1,4 @@
-dfd
+
 
 git push -f origin  master
 
@@ -9,8 +9,6 @@ git commit
 
 git fetch && git pull
 
-
-123333
 
 git init
 
